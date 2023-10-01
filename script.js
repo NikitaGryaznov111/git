@@ -1,1 +1,1 @@
-// Document.body.innerHTML = "привет";
+Document.body.innerHTML = "привет";
