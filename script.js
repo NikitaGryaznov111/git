@@ -1,1 +1,1 @@
-Document.body.innerHTML = "привет";
+console.log("test 2")
